@@ -19,10 +19,17 @@ SYSTEM ARCHITECTURE
 REFERENCES
 
 https://pysource.com/
+
 https://youtu.be/VanxJiUwOrQ
+
 https://www.researchgate.net/publication/282074763_Intelligent_Traffic_Light_Control_System_Based_Image_Intensity_Measurement
+
 https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec
+
 https://docs.python.org/3/library/turtle.html
+
 https://www.google.com/amp/s/blog.roboflow.com/a-thorough-breakdown-of-yolov4/amp/
+
 https://www.youtube.com/watch?v=h1XhllUAA6c&t=192s
+
 https://www.ijrte.org/wp-content/uploads/papers/v8i2S3/B11270782S319.pdf
