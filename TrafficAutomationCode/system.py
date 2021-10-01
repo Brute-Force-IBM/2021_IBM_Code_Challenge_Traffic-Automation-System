@@ -1,5 +1,4 @@
 import turtle
-# import time
 import random
 from tkinter import *
 from trafficlight import Light, UI
@@ -48,8 +47,7 @@ n = UI.text(0, 220, str(inten[3]))  # l3
 s = UI.text(200, 120, str(inten[2]))  # l4
 
 
-#count=[0]*4
-#current=0
+
 m = (max(inten))
 i = inten.index(m)
 cur=i
@@ -66,7 +64,6 @@ while (True):
         lights[prev].timer()
         count=0
         
-
     if prev==cur:
             count+=1
             print(count)
@@ -95,5 +92,5 @@ while (True):
     s = UI.text(200, 120, str(inten[2]))  # l4
 
 
-wn.listen()  # Listen for events
+wn.listen() 
 wn.mainloop()
