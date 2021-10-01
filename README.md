@@ -5,7 +5,8 @@ The congestion of urban traffic has become one of the critical issue with increa
 
 IMAGE PROCESSING
 Identifying the cars on image
-![Screenshot (438)](https://user-images.githubusercontent.com/78838984/135518059-5b17a5ac-d754-441d-883d-d0ba03b722cc.png)
+![Screenshot (438)](https://user-images.githubusercontent.com/78838984/135569706-f00cb147-5df7-4959-b46d-5055062ef34e.png)
+
 
 
 
