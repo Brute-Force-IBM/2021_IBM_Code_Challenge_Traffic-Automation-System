@@ -7,14 +7,14 @@ IMAGE PROCESSING
 
 Identifying the cars on image
 
-![Screenshot (438)](https://user-images.githubusercontent.com/78838984/135569706-f00cb147-5df7-4959-b46d-5055062ef34e.png)
+              ![Screenshot (438)](https://user-images.githubusercontent.com/78838984/135569706-f00cb147-5df7-4959-b46d-5055062ef34e.png)
 
 
 
 
 SYSTEM ARCHITECTURE
 
-![135516242-5a4bfd2c-13f8-404b-bc1f-ff4ab1d77ddf](https://user-images.githubusercontent.com/78838984/135576912-fb8cc3ca-077e-49dc-bbb7-e8ab68c11f6f.jpeg)
+           ![135516242-5a4bfd2c-13f8-404b-bc1f-ff4ab1d77ddf](https://user-images.githubusercontent.com/78838984/135576912-fb8cc3ca-077e-49dc-bbb7-e8ab68c11f6f.jpeg)
 
 REFERENCES
 
