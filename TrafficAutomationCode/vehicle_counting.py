@@ -20,19 +20,6 @@ class Vehicle():
             self.vehicle_boxes = self.vd.detect_vehicles(self.img)
             self.vehicle_count = len(self.vehicle_boxes)
             self.count.append(self.vehicle_count)
-        # Update total count
-            self.vehicles_folder_count += self.vehicle_count
-
-            for box in self.vehicle_boxes:
-                x, y, w, h = box
-
-                cv2.rectangle(self.img, (x, y), (x + w, y + h), (25, 0, 180), 3)
-
-                cv2.putText(self.img, "Vehicles: " + str(self.vehicle_count), (20, 50), 0, 2, (100, 200, 0), 3)
-
-        #cv2.imshow("Cars", self.img)
-        #cv2.waitKey(1)
-
-        # print("Total current count", self.vehicles_folder_count)
+       
     def lcount(self):
         return(self.count)
