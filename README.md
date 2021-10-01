@@ -14,7 +14,7 @@ Identifying the cars on image
 
 SYSTEM ARCHITECTURE
 
-# Traffic-Automation![Blank diagram](https://user-images.githubusercontent.com/78838984/135516242-5a4bfd2c-13f8-404b-bc1f-ff4ab1d77ddf.jpeg)
+![135516242-5a4bfd2c-13f8-404b-bc1f-ff4ab1d77ddf](https://user-images.githubusercontent.com/78838984/135576912-fb8cc3ca-077e-49dc-bbb7-e8ab68c11f6f.jpeg)
 
 REFERENCES
 
