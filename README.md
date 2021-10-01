@@ -15,3 +15,12 @@ Identifying the cars on image
 SYSTEM ARCHITECTURE
 
 # Traffic-Automation![Blank diagram](https://user-images.githubusercontent.com/78838984/135516242-5a4bfd2c-13f8-404b-bc1f-ff4ab1d77ddf.jpeg)
+
+REFERENCES
+
+https://pysource.com/
+https://youtu.be/VanxJiUwOrQ
+https://www.researchgate.net/publication/282074763_Intelligent_Traffic_Light_Control_System_Based_Image_Intensity_Measurement
+https://medium.com/analytics-vidhya/yolov4-vs-yolov4-tiny-97932b6ec8ec
+https://docs.python.org/3/library/turtle.html
+https://www.google.com/amp/s/blog.roboflow.com/a-thorough-breakdown-of-yolov4/amp/
