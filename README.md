@@ -35,3 +35,7 @@ https://www.youtube.com/watch?v=h1XhllUAA6c&t=192s
 https://www.ijrte.org/wp-content/uploads/papers/v8i2S3/B11270782S319.pdf
 
 https://www.youtube.com/watch?v=ag3DLKsl2vk&t=312s
+
+https://blog.roboflow.com/a-thorough-breakdown-of-yolov4/
+
+https://docs.python.org/3/library/tk.html
